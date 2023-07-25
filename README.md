@@ -8,4 +8,5 @@
 
 ### 其他：
 如果目录下没有WearBox1.apk用于比较，会从包内提取一个。你也可以替换这个apk
+
 有错误会printStackTrace
