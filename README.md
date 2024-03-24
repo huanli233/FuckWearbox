@@ -1,5 +1,5 @@
 # FuckWearbox
-通过比较apk的方式判断apk与wearbox的相似度
+通过比较dex的方式判断apk与wearbox的相似度
 
 ### 使用方法：
 方法1.运行jar文件（java -jar <文件名>.jar），输入apk名称然后回车。
